@@ -1,10 +1,10 @@
 # MoreDisciplinePls
 
-<h1 align="center">Hi, my name is Vasiliy. #MoreDisciplinePls</h1>
+<h1 align="center">Hi, my name is Vasiliy.<br>#MoreDisciplinePls</h1>
 
 <div align="center">
   <!-- Иконки языков и технологий -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"  height="40" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
