@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Иконки языков и технологий -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"  height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
