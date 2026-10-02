@@ -1,4 +1,4 @@
-# MoreDisciplinePls.github.io
+# MoreDisciplinePls
 
 <h1 align="center">Hi, my name is Vasiliy. #MoreDisciplinePls</h1>
 
