@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, my name is Vasiliy.</h1>
+<h1 align="center">Hi, I'm Vasiliy.</h1>
 
 <div align="center">
   <!-- Иконки языков и технологий -->
