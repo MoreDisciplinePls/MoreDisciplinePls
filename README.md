@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, my name is Vasiliy.<br>#MoreDisciplinePls</h1>
+<h1 align="center">Hi, my name is Vasiliy.</h1>
 
 <div align="center">
   <!-- Иконки языков и технологий -->
@@ -26,3 +26,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MoreDisciplinePls/MoreDisciplinePls/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<h2># MoreDisciplinePls</h2>
