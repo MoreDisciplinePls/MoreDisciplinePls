@@ -27,4 +27,4 @@
   <img src="https://raw.githubusercontent.com/MoreDisciplinePls/MoreDisciplinePls/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<h2># MoreDisciplinePls</h2>
+<h2 align="center"># MoreDisciplinePls</h2>
